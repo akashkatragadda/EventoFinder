@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Evento Finder</string>
+    <string name="title_text">Evento Finder</string>
+    <string name="signed_out">signed out</string>
+    <string name="sign_out">sign out</string>
+    <string name="disconnect">disconnected</string>
+    <string name="loading">loading</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCkTieRdHnCZOw1zVgJKmK1oZaqiySPBQ4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_label">Evento Finder</string>
+    <string name="search_hint">search for events ..</string>
+</resources>
